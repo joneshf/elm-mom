@@ -8,6 +8,7 @@
     ],
     "exposed-modules": [
         "Mom",
+        "Mom.Always",
         "Mom.Either",
         "Mom.Identity",
         "Mom.Option"
